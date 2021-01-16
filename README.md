@@ -5,7 +5,7 @@ Realizado download dos dados de usuário da plataforma Netflix, realizado o pré
 
 
 
-##Dashboard Final 
+## Dashboard Final 
 
 
 ![alt text](https://github.com/GumaFernando/AnaliseNetflix/blob/main/dashboard_netflix_final.PNG)
